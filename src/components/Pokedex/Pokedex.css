@@ -1,0 +1,12 @@
+.pokedex-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-top: -20rem;
+    
+}
+
+#pokedex-heading{
+ 
+    margin:0 auto;
+    letter-spacing: 5px;
+}
